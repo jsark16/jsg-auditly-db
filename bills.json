@@ -14,5 +14,19 @@
     "createdAt": "2026-10-20T21:53:02.290Z",
     "recurring": false,
     "archived": false
+  },
+  {
+    "id": "bill_test_1792534895505",
+    "billNumber": "TESTPB-1792534894605",
+    "vendorName": "ZZZ Vendor TESTPB-1792534894605",
+    "date": "2026-10-01",
+    "dueDate": "2026-10-21",
+    "amount": 200,
+    "category": "Software and Subscriptions",
+    "status": "Unpaid",
+    "notes": "",
+    "createdAt": "2026-10-20T22:21:35.505Z",
+    "archived": false,
+    "accrued": false
   }
 ]
