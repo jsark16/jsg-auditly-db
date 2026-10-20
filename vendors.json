@@ -1,19 +1,5 @@
 [
   {
-    "id": "vend_1792532650737",
-    "name": "ZZ Acme Contractors",
-    "email": "jane@acme.test",
-    "phone": "(555) 999-0000",
-    "company": "",
-    "category": "Service",
-    "notes": "primary GC",
-    "contactPerson": "Jane Doe",
-    "address": "1 Main St",
-    "status": "inactive",
-    "archived": false,
-    "createdAt": "2026-10-20T21:44:10.737Z"
-  },
-  {
     "id": "vend_1792532652029",
     "name": "ZZ Cloud Soft",
     "email": "",
