@@ -13,7 +13,7 @@
     "paymentTerms": "Net 30",
     "createdAt": "2026-10-20T21:31:35.245Z",
     "recurring": false,
-    "archived": true
+    "archived": false
   },
   {
     "id": "bill_1792531896371_vne7z",
