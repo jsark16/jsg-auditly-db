@@ -9,7 +9,7 @@
     "contactPerson": "Jane Tester",
     "billingAddress": "1 Test St, Boston MA",
     "status": "inactive",
-    "archived": false,
+    "archived": true,
     "createdAt": "2026-10-20T21:06:29.585Z"
   }
 ]
