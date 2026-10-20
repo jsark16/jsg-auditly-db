@@ -1,0 +1,16 @@
+[
+  {
+    "id": "vend_1792532650737",
+    "name": "ZZ Acme Contractors",
+    "email": "jane@acme.test",
+    "phone": "(555) 111-2222",
+    "company": "",
+    "category": "Contractor",
+    "notes": "primary GC",
+    "contactPerson": "Jane Doe",
+    "address": "1 Main St",
+    "status": "active",
+    "archived": false,
+    "createdAt": "2026-10-20T21:44:10.737Z"
+  }
+]
