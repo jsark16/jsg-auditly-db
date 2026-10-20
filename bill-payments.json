@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "bpmt_1792534902647_gx51w",
+    "paymentNumber": "BPMT-0001",
+    "billId": "bill_test_1792534895505",
+    "billNumber": "TESTPB-1792534894605",
+    "vendorName": "ZZZ Vendor TESTPB-1792534894605",
+    "amount": 120,
+    "paymentDate": "2026-10-20",
+    "method": "Wise",
+    "notes": "",
+    "paymentAccount": "Wise Account",
+    "refNumber": "R1",
+    "createdAt": "2026-10-20T22:21:42.647Z"
+  }
+]
