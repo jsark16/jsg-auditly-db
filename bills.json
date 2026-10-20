@@ -28,5 +28,19 @@
     "createdAt": "2026-10-20T22:21:35.505Z",
     "archived": false,
     "accrued": true
+  },
+  {
+    "id": "bill_leg_1792534917172",
+    "billNumber": "TESTPB-1792534894605-L",
+    "vendorName": "ZZZ Legacy TESTPB-1792534894605",
+    "date": "2026-10-05",
+    "dueDate": "2026-10-25",
+    "amount": 100,
+    "category": "Professional Fees",
+    "status": "Unpaid",
+    "notes": "",
+    "createdAt": "2026-10-20T22:21:57.172Z",
+    "archived": false,
+    "accrued": false
   }
 ]
