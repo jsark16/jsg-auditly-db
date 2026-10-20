@@ -23,7 +23,7 @@
     "dueDate": "2026-10-21",
     "amount": 200,
     "category": "Software and Subscriptions",
-    "status": "Partially Paid",
+    "status": "Paid",
     "notes": "",
     "createdAt": "2026-10-20T22:21:35.505Z",
     "archived": false,
