@@ -23,7 +23,7 @@
     "dueDate": "2026-10-25",
     "amount": 100,
     "category": "Professional Fees",
-    "status": "Unpaid",
+    "status": "Paid",
     "notes": "",
     "createdAt": "2026-10-20T22:24:47.715Z",
     "archived": false,
