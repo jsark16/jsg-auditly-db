@@ -28,5 +28,19 @@
     "createdAt": "2026-10-20T21:31:36.371Z",
     "recurring": false,
     "archived": false
+  },
+  {
+    "id": "bill_1792531897454_8e8fn",
+    "billNumber": "ZZ-CUSTOM-1",
+    "vendorName": "ZZ Custom Num",
+    "date": "2026-10-20",
+    "dueDate": "",
+    "amount": 10,
+    "category": "Other",
+    "status": "Unpaid",
+    "notes": "",
+    "createdAt": "2026-10-20T21:31:37.454Z",
+    "recurring": false,
+    "archived": false
   }
 ]
