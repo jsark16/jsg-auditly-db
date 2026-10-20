@@ -14,19 +14,5 @@
     "createdAt": "2026-10-20T21:53:02.290Z",
     "recurring": false,
     "archived": false
-  },
-  {
-    "id": "bill_leg_1792535010085",
-    "billNumber": "DIAG-1792535010085-L",
-    "vendorName": "ZZZ DIAG-1792535010085",
-    "date": "2026-10-05",
-    "dueDate": "2026-10-25",
-    "amount": 100,
-    "category": "Professional Fees",
-    "status": "Unpaid",
-    "notes": "",
-    "createdAt": "2026-10-20T22:23:30.085Z",
-    "archived": false,
-    "accrued": false
   }
 ]
