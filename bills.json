@@ -14,31 +14,5 @@
     "createdAt": "2026-10-20T21:53:02.290Z",
     "recurring": false,
     "archived": false
-  },
-  {
-    "id": "bill_test_1792534484465",
-    "billNumber": "TESTPB-1792534483664",
-    "vendorName": "ZZZ Test Vendor TESTPB-1792534483664",
-    "date": "2026-10-01",
-    "dueDate": "2026-10-21",
-    "amount": 200,
-    "category": "Software and Subscriptions",
-    "status": "Paid",
-    "notes": "E2E scratch",
-    "createdAt": "2026-10-20T22:14:44.465Z",
-    "archived": false
-  },
-  {
-    "id": "bill_decoy_1792534484466",
-    "billNumber": "TESTPB-1792534483664-DECOY",
-    "vendorName": "ZZZ Other Vendor TESTPB-1792534483664",
-    "date": "2026-10-01",
-    "dueDate": "2026-10-21",
-    "amount": 50,
-    "category": "Other",
-    "status": "Unpaid",
-    "notes": "E2E decoy",
-    "createdAt": "2026-10-20T22:14:44.466Z",
-    "archived": false
   }
 ]
