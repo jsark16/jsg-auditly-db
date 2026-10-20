@@ -1,19 +1,5 @@
 [
   {
-    "id": "vend_1792532652029",
-    "name": "ZZ Cloud Soft",
-    "email": "",
-    "phone": "",
-    "company": "",
-    "category": "Software",
-    "notes": "",
-    "contactPerson": "",
-    "address": "",
-    "status": "active",
-    "archived": false,
-    "createdAt": "2026-10-20T21:44:12.029Z"
-  },
-  {
     "id": "vend_1792532653210",
     "name": "ZZ Clean Co",
     "email": "",
