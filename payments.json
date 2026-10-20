@@ -11,6 +11,22 @@
     "notes": "",
     "createdAt": "2026-10-20T20:15:37.909Z",
     "depositTo": "Business Bank Account",
-    "refNumber": "1234"
+    "refNumber": "1234",
+    "status": "void",
+    "voidInfo": {
+      "reason": "Test entry only",
+      "voidedBy": "Grace",
+      "voidedByEmail": "grace@jeansimon-group.com",
+      "voidedAt": "2026-10-20T20:56:53.025Z"
+    },
+    "audit": [
+      {
+        "action": "voided",
+        "by": "Grace",
+        "byEmail": "grace@jeansimon-group.com",
+        "at": "2026-10-20T20:56:53.025Z",
+        "reason": "Test entry only"
+      }
+    ]
   }
 ]
