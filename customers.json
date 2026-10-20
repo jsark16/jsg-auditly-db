@@ -1,0 +1,15 @@
+[
+  {
+    "id": "cust_1792530389585",
+    "name": "ZZ TEST CO (delete me)",
+    "email": "jane@ztest.com",
+    "phone": "(555) 111-2222",
+    "company": "",
+    "notes": "qa run",
+    "contactPerson": "Jane Tester",
+    "billingAddress": "1 Test St, Boston MA",
+    "status": "active",
+    "archived": false,
+    "createdAt": "2026-10-20T21:06:29.585Z"
+  }
+]
