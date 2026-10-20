@@ -14,19 +14,5 @@
     "createdAt": "2026-10-20T21:53:02.290Z",
     "recurring": false,
     "archived": false
-  },
-  {
-    "id": "bill_leg_1792535087715",
-    "billNumber": "LEGACY-1792535086125",
-    "vendorName": "ZZZ LEGACY-1792535086125",
-    "date": "2026-10-05",
-    "dueDate": "2026-10-25",
-    "amount": 100,
-    "category": "Professional Fees",
-    "status": "Paid",
-    "notes": "",
-    "createdAt": "2026-10-20T22:24:47.715Z",
-    "archived": false,
-    "accrued": false
   }
 ]
