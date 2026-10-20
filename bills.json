@@ -14,5 +14,19 @@
     "createdAt": "2026-10-20T21:31:35.245Z",
     "recurring": false,
     "archived": false
+  },
+  {
+    "id": "bill_1792531896371_vne7z",
+    "billNumber": "BILL-0002",
+    "vendorName": "ZZ Paid Attempt",
+    "date": "2026-10-20",
+    "dueDate": "",
+    "amount": 99,
+    "category": "Other",
+    "status": "Unpaid",
+    "notes": "",
+    "createdAt": "2026-10-20T21:31:36.371Z",
+    "recurring": false,
+    "archived": false
   }
 ]
