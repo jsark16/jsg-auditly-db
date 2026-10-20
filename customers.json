@@ -1,13 +1,13 @@
 [
   {
     "id": "cust_1792532657069",
-    "name": "Kori Haggie",
+    "name": "Run with Haggie Services LLC",
     "email": "kori@runwithhaggie.com",
     "phone": "+1 (973) 851-1078",
     "company": "",
     "notes": "",
-    "contactPerson": "",
-    "billingAddress": "Run with Haggie Services LLC\nEvesham, New Jersey",
+    "contactPerson": "Kori Haggie",
+    "billingAddress": "Evesham, New Jersey",
     "status": "active",
     "archived": false,
     "createdAt": "2026-10-20T21:44:17.069Z"
