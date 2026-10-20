@@ -10,7 +10,7 @@
     "contactPerson": "Jane Doe",
     "address": "1 Main St",
     "status": "inactive",
-    "archived": false,
+    "archived": true,
     "createdAt": "2026-10-20T21:44:10.737Z"
   },
   {
