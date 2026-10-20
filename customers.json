@@ -11,5 +11,18 @@
     "status": "active",
     "archived": false,
     "createdAt": "2026-10-20T21:44:17.069Z"
+  },
+  {
+    "id": "cust_1792538429494",
+    "name": "Benders Enterprise LLC",
+    "email": "info@dariusbenders.com",
+    "phone": "",
+    "company": "",
+    "notes": "",
+    "contactPerson": "",
+    "billingAddress": "",
+    "status": "active",
+    "archived": false,
+    "createdAt": "2026-10-20T23:20:29.494Z"
   }
 ]
