@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "bill_1792533182290_9cqux",
+    "billNumber": "001",
+    "vendorName": "Zoom Subscription",
+    "date": "2026-09-21",
+    "dueDate": "2026-10-21",
+    "amount": 200,
+    "category": "Software",
+    "status": "Unpaid",
+    "notes": "",
+    "description": "For zoom",
+    "paymentTerms": "Net 30",
+    "createdAt": "2026-10-20T21:53:02.290Z",
+    "recurring": false,
+    "archived": false
+  }
+]
