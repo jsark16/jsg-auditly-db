@@ -1,15 +1,1 @@
-[
-  {
-    "id": "bpmt_1792535089383",
-    "paymentNumber": "BPMT-TEST",
-    "billId": "bill_leg_1792535087715",
-    "billNumber": "LEGACY-1792535086125",
-    "vendorName": "ZZZ LEGACY-1792535086125",
-    "amount": 100,
-    "paymentDate": "2026-10-20",
-    "method": "Cash",
-    "paymentAccount": "Business Bank Account",
-    "refNumber": "L1",
-    "createdAt": "2026-10-20T22:24:49.383Z"
-  }
-]
+[]
