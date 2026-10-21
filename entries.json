@@ -18,5 +18,37 @@
     "description": "VOID · PMT-0001 · Invoice JSG-0010 reversed — Test entry only",
     "amountRaw": "$-200.00",
     "month": "October"
+  },
+  {
+    "date": "10/20/2026",
+    "type": "Balance",
+    "entity": "Accounts Receivable",
+    "clientName": "Kori Haggie",
+    "category": "Accounts Receivable",
+    "description": "Invoice JSG-0010 issued · Kori Haggie",
+    "amountRaw": "$200.00",
+    "month": "October",
+    "txnId": "INV-JSG-0010",
+    "accountCode": "1200",
+    "accountName": "Accounts Receivable",
+    "debit": 200,
+    "credit": 0,
+    "source": "invoice"
+  },
+  {
+    "date": "10/20/2026",
+    "type": "Earnings",
+    "entity": "Other Service Income",
+    "clientName": "Kori Haggie",
+    "category": "Other Service Income",
+    "description": "Invoice JSG-0010 · revenue recognized",
+    "amountRaw": "$200.00",
+    "month": "October",
+    "txnId": "INV-JSG-0010",
+    "accountCode": "4090",
+    "accountName": "Other Service Income",
+    "debit": 0,
+    "credit": 200,
+    "source": "invoice"
   }
 ]
