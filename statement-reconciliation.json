@@ -1,0 +1,221 @@
+[
+  {
+    "id": "stmt-recon-1792702358120",
+    "accountCode": "1010",
+    "accountName": "Wise Account",
+    "statementHash": "6d06bfe1",
+    "openingBalance": 5000,
+    "closingBalance": 10327.71,
+    "currency": "USD",
+    "dateRange": {
+      "first": "9/2/2026",
+      "last": "9/30/2026"
+    },
+    "result": {
+      "matched": [],
+      "amountMismatches": [],
+      "ambiguous": [],
+      "duplicates": [],
+      "missingInAuditly": [
+        {
+          "reference": "SYN-WISE-0001",
+          "date": "9/2/2026",
+          "description": "SYNTHETIC Incoming payment - Harbor Peak Logistics (INV-1001)",
+          "amount": 1500,
+          "rowType": "TXN",
+          "feeTreatment": "NO_FEE",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0002",
+          "date": "9/3/2026",
+          "description": "SYNTHETIC Transfer to Lumen VA Services - contractor payment",
+          "amount": -420,
+          "rowType": "TXN",
+          "feeTreatment": "INCLUDED_IN_AMOUNT",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0003",
+          "date": "9/4/2026",
+          "description": "SYNTHETIC Transfer to Kestrel Contractor Co - contractor payment",
+          "amount": -300,
+          "rowType": "TXN",
+          "feeTreatment": "FEE_IN_SEPARATE_ROW",
+          "linkedReference": "SYN-WISE-0004"
+        },
+        {
+          "reference": "SYN-WISE-0004",
+          "date": "9/4/2026",
+          "description": "SYNTHETIC Wise transfer fee for SYN-WISE-0003",
+          "amount": -1.8,
+          "rowType": "FEE",
+          "feeTreatment": "SEPARATE_TRANSACTION",
+          "linkedReference": "SYN-WISE-0003"
+        },
+        {
+          "reference": "SYN-WISE-0005",
+          "date": "9/5/2026",
+          "description": "SYNTHETIC Subscription - Cloudly CRM",
+          "amount": -49,
+          "rowType": "TXN",
+          "feeTreatment": "NO_FEE",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0006",
+          "date": "9/8/2026",
+          "description": "SYNTHETIC Incoming payment - Brightpath Sales Academy (INV-1002)",
+          "amount": 2200,
+          "rowType": "TXN",
+          "feeTreatment": "NO_FEE",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0007",
+          "date": "9/9/2026",
+          "description": "SYNTHETIC Card payment - Northwind Docs",
+          "amount": -29.99,
+          "rowType": "TXN",
+          "feeTreatment": "NO_FEE",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0008",
+          "date": "9/10/2026",
+          "description": "SYNTHETIC Payment - Sample Fiber Internet",
+          "amount": -65.5,
+          "rowType": "TXN",
+          "feeTreatment": "NO_FEE",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0009",
+          "date": "9/12/2026",
+          "description": "SYNTHETIC Incoming payment - Evergreen Staffing Co (INV-1003)",
+          "amount": 980,
+          "rowType": "TXN",
+          "feeTreatment": "NO_FEE",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0010",
+          "date": "9/15/2026",
+          "description": "SYNTHETIC Transfer to Maria Testperson - VA payment",
+          "amount": -650,
+          "rowType": "TXN",
+          "feeTreatment": "INCLUDED_IN_AMOUNT",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0011",
+          "date": "9/16/2026",
+          "description": "SYNTHETIC Incoming payment - Summit Ridge Webinars (INV-1004)",
+          "amount": 800,
+          "rowType": "TXN",
+          "feeTreatment": "FEE_IN_SEPARATE_ROW",
+          "linkedReference": "SYN-WISE-0012"
+        },
+        {
+          "reference": "SYN-WISE-0012",
+          "date": "9/16/2026",
+          "description": "SYNTHETIC Wise receiving fee for SYN-WISE-0011",
+          "amount": -4,
+          "rowType": "FEE",
+          "feeTreatment": "SEPARATE_TRANSACTION",
+          "linkedReference": "SYN-WISE-0011"
+        },
+        {
+          "reference": "SYN-WISE-0013",
+          "date": "9/18/2026",
+          "description": "SYNTHETIC Transfer to Test Owner - owner draw",
+          "amount": -500,
+          "rowType": "TXN",
+          "feeTreatment": "NO_FEE",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0014",
+          "date": "9/19/2026",
+          "description": "SYNTHETIC Incoming payment - unknown sender Orchard Lane Demo",
+          "amount": 125,
+          "rowType": "TXN",
+          "feeTreatment": "NO_FEE",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0015",
+          "date": "9/22/2026",
+          "description": "SYNTHETIC Payment - Fictional CPA Partners - accounting fees",
+          "amount": -180,
+          "rowType": "TXN",
+          "feeTreatment": "NO_FEE",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0016",
+          "date": "9/24/2026",
+          "description": "SYNTHETIC Incoming transfer - Test Owner - owner contribution",
+          "amount": 1000,
+          "rowType": "TXN",
+          "feeTreatment": "NO_FEE",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0017",
+          "date": "9/26/2026",
+          "description": "SYNTHETIC Transfer to Kestrel Contractor Co - contractor payment",
+          "amount": -275,
+          "rowType": "TXN",
+          "feeTreatment": "INCLUDED_IN_AMOUNT",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0018",
+          "date": "9/29/2026",
+          "description": "SYNTHETIC Incoming payment - Blue Meadow Coaching (INV-1005)",
+          "amount": 1200,
+          "rowType": "TXN",
+          "feeTreatment": "NO_FEE",
+          "linkedReference": ""
+        },
+        {
+          "reference": "SYN-WISE-0019",
+          "date": "9/30/2026",
+          "description": "SYNTHETIC Wise monthly account fee",
+          "amount": -2,
+          "rowType": "FEE",
+          "feeTreatment": "SEPARATE_TRANSACTION",
+          "linkedReference": ""
+        }
+      ],
+      "unmatchedInBooks": [],
+      "balance": {
+        "openingBalance": 5000,
+        "closingBalance": 10327.71,
+        "statementNet": 5327.71,
+        "statementClosesCorrectly": true,
+        "bookLedgerBalance": 5000,
+        "difference": 5327.71,
+        "explainedByBuckets": 5327.71,
+        "unexplainedResidual": 0,
+        "reconciled": true
+      },
+      "warnings": []
+    },
+    "hasRejectedRows": false,
+    "status": "draft",
+    "createdBy": "grace@jeansimon-group.com",
+    "createdAt": "2026-10-22T20:52:38.120Z",
+    "finalizedBy": null,
+    "finalizedAt": null,
+    "overrideDuplicate": false,
+    "audit": [
+      {
+        "action": "imported",
+        "by": "grace@jeansimon-group.com",
+        "at": "2026-10-22T20:52:38.120Z"
+      }
+    ]
+  }
+]
