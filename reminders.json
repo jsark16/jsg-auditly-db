@@ -50,7 +50,9 @@
       "link": "/bills?focus=bill_1792533182290_9cqux",
       "status": "active",
       "createdAt": "2026-11-18T03:15:45.435Z",
-      "readBy": []
+      "readBy": [
+        "grace@jeansimon-group.com"
+      ]
     }
   ]
 }
