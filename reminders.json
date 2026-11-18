@@ -1,0 +1,54 @@
+{
+  "config": {
+    "invoices": {
+      "daysBefore": [
+        7,
+        3
+      ],
+      "onDueDate": true,
+      "dailyAfterDue": true
+    },
+    "bills": {
+      "daysBefore": [
+        7,
+        3
+      ],
+      "onDueDate": true,
+      "dailyAfterDue": true
+    }
+  },
+  "reminders": [
+    {
+      "key": "invoice:JSG-007:overdue",
+      "source": "invoice",
+      "kind": "overdue",
+      "recordId": "JSG-007",
+      "recordLabel": "JSG-007",
+      "party": "Benders Enterprise LLC",
+      "amount": 3250,
+      "dueDate": "11/16/2026",
+      "tag": "overdue",
+      "message": "Invoice JSG-007 to Benders Enterprise LLC ($3,250.00) is 1 day overdue — was due 11/16/2026.",
+      "link": "/invoices?focus=JSG-007",
+      "status": "active",
+      "createdAt": "2026-11-18T03:15:45.435Z",
+      "readBy": []
+    },
+    {
+      "key": "bill:bill_1792533182290_9cqux:overdue",
+      "source": "bill",
+      "kind": "overdue",
+      "recordId": "bill_1792533182290_9cqux",
+      "recordLabel": "001",
+      "party": "Zoom Subscription",
+      "amount": 200,
+      "dueDate": "2026-10-21",
+      "tag": "overdue",
+      "message": "Bill 001 from Zoom Subscription ($200.00) is 27 days overdue — was due 2026-10-21.",
+      "link": "/bills?focus=bill_1792533182290_9cqux",
+      "status": "active",
+      "createdAt": "2026-11-18T03:15:45.435Z",
+      "readBy": []
+    }
+  ]
+}
