@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "payment:pmt_1792527337909_gittx:voided:2026-10-20T20:56:53.025Z",
+    "at": "2026-10-20T20:56:53.025Z",
+    "actor": "Grace",
+    "entity": "payment",
+    "entityId": "pmt_1792527337909_gittx",
+    "action": "voided",
+    "summary": "Payment PMT-0001 for Kori Haggie voided",
+    "source": "payments",
+    "metadata": {
+      "paymentNumber": "PMT-0001",
+      "reason": "Test entry only",
+      "byEmail": "grace@jeansimon-group.com"
+    }
+  }
+]
