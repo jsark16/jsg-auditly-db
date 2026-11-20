@@ -54,5 +54,30 @@
       "actorKnown": false,
       "postedAtKnown": false
     }
+  },
+  {
+    "id": "journal:INV-JSG-0010-VOID:posted",
+    "at": "2026-10-20",
+    "actor": "",
+    "entity": "journal",
+    "entityId": "INV-JSG-0010-VOID",
+    "action": "posted",
+    "summary": "Journal INV-JSG-0010-VOID posted (manual-reversal)",
+    "source": "manual-reversal",
+    "metadata": {
+      "txnId": "INV-JSG-0010-VOID",
+      "kind": "original",
+      "txnDate": "2026-10-20",
+      "amount": 200,
+      "debits": 200,
+      "credits": 200,
+      "balanced": true,
+      "accounts": [
+        "4090",
+        "1200"
+      ],
+      "actorKnown": false,
+      "postedAtKnown": false
+    }
   }
 ]
