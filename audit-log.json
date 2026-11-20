@@ -29,5 +29,30 @@
       "canReconcile": true,
       "canBackup": true
     }
+  },
+  {
+    "id": "journal:INV-JSG-0010:posted",
+    "at": "10/20/2026",
+    "actor": "",
+    "entity": "journal",
+    "entityId": "INV-JSG-0010",
+    "action": "posted",
+    "summary": "Journal INV-JSG-0010 posted (invoice)",
+    "source": "invoice",
+    "metadata": {
+      "txnId": "INV-JSG-0010",
+      "kind": "original",
+      "txnDate": "10/20/2026",
+      "amount": 200,
+      "debits": 200,
+      "credits": 200,
+      "balanced": true,
+      "accounts": [
+        "1200",
+        "4090"
+      ],
+      "actorKnown": false,
+      "postedAtKnown": false
+    }
   }
 ]
