@@ -13,5 +13,21 @@
       "reason": "Test entry only",
       "byEmail": "grace@jeansimon-group.com"
     }
+  },
+  {
+    "id": "session:login:grace@jeansimon-group.com:2026-11-20T22:04:06.777Z",
+    "at": "2026-11-20T22:04:06.777Z",
+    "actor": "Grace",
+    "entity": "session",
+    "entityId": "grace@jeansimon-group.com",
+    "action": "login",
+    "summary": "Grace logged in",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com",
+      "isAdmin": false,
+      "canReconcile": true,
+      "canBackup": true
+    }
   }
 ]
