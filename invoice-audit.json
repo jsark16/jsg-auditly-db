@@ -1,0 +1,22 @@
+{
+  "JSG-007": {
+    "trail": [],
+    "lastSeen": {
+      "status": "UNPAID",
+      "total": "$3,087.50",
+      "client": "Benders Enterprise LLC",
+      "date": "11/16/2026",
+      "dueDate": "11/16/2026"
+    }
+  },
+  "JSG-005": {
+    "trail": [],
+    "lastSeen": {
+      "status": "PAID",
+      "total": "$1,700.00",
+      "client": "Benders Enterprise LLC",
+      "date": "10/16/2026",
+      "dueDate": "10/23/2026"
+    }
+  }
+}
