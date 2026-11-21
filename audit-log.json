@@ -174,5 +174,21 @@
       "canReconcile": true,
       "canBackup": true
     }
+  },
+  {
+    "id": "session:login:joma@jeansimon-group.com:2026-11-21T06:51:39.830Z",
+    "at": "2026-11-21T06:51:39.830Z",
+    "actor": "Joma",
+    "entity": "session",
+    "entityId": "joma@jeansimon-group.com",
+    "action": "login",
+    "summary": "Joma logged in",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "joma@jeansimon-group.com",
+      "isAdmin": false,
+      "canReconcile": false,
+      "canBackup": false
+    }
   }
 ]
