@@ -293,5 +293,18 @@
     "metadata": {
       "byEmail": "grace@jeansimon-group.com"
     }
+  },
+  {
+    "id": "session:logout:grace@jeansimon-group.com:2026-11-21T07:12:23.628Z",
+    "at": "2026-11-21T07:12:23.628Z",
+    "actor": "Grace",
+    "entity": "session",
+    "entityId": "grace@jeansimon-group.com",
+    "action": "logout",
+    "summary": "Grace logged out",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
