@@ -550,5 +550,21 @@
     "metadata": {
       "byEmail": "phil@jeansimon-group.com"
     }
+  },
+  {
+    "id": "session:login:grace@jeansimon-group.com:2026-11-23T19:56:04.148Z",
+    "at": "2026-11-23T19:56:04.148Z",
+    "actor": "Grace",
+    "entity": "session",
+    "entityId": "grace@jeansimon-group.com",
+    "action": "login",
+    "summary": "Grace logged in",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com",
+      "isAdmin": true,
+      "canReconcile": true,
+      "canBackup": true
+    }
   }
 ]
