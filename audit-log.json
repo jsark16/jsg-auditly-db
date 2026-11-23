@@ -521,5 +521,21 @@
     "metadata": {
       "byEmail": "grace@jeansimon-group.com"
     }
+  },
+  {
+    "id": "session:login:phil@jeansimon-group.com:2026-11-23T19:55:49.064Z",
+    "at": "2026-11-23T19:55:49.064Z",
+    "actor": "Phil",
+    "entity": "session",
+    "entityId": "phil@jeansimon-group.com",
+    "action": "login",
+    "summary": "Phil logged in",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "phil@jeansimon-group.com",
+      "isAdmin": false,
+      "canReconcile": false,
+      "canBackup": false
+    }
   }
 ]
