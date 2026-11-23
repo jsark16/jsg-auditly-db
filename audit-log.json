@@ -566,5 +566,22 @@
       "canReconcile": true,
       "canBackup": true
     }
+  },
+  {
+    "id": "reconciliation:reconciled:audit-sweep:2026-11-23T19:56:21.845Z",
+    "at": "2026-11-23T19:56:21.845Z",
+    "actor": "Grace",
+    "entity": "reconciliation",
+    "entityId": "audit-sweep",
+    "action": "reconciled",
+    "summary": "Audit reconciliation run (0 appended)",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com",
+      "appended": 0,
+      "deduped": 0,
+      "failed": 0,
+      "retriedFromDeadLetter": 0
+    }
   }
 ]
