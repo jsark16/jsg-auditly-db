@@ -537,5 +537,18 @@
       "canReconcile": false,
       "canBackup": false
     }
+  },
+  {
+    "id": "session:logout:phil@jeansimon-group.com:2026-11-23T19:56:00.951Z",
+    "at": "2026-11-23T19:56:00.951Z",
+    "actor": "Phil",
+    "entity": "session",
+    "entityId": "phil@jeansimon-group.com",
+    "action": "logout",
+    "summary": "Phil logged out",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "phil@jeansimon-group.com"
+    }
   }
 ]
