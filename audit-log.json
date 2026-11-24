@@ -841,5 +841,39 @@
       "canReconcile": true,
       "canBackup": true
     }
+  },
+  {
+    "id": "settings:updated:settings:2026-11-24T21:56:50.096Z",
+    "at": "2026-11-24T21:56:50.096Z",
+    "actor": "Grace",
+    "entity": "settings",
+    "entityId": "settings",
+    "action": "updated",
+    "summary": "Settings updated (1 field)",
+    "before": {
+      "companyName": "JeanSimon Group",
+      "companyEmail": "issacar@jeansimon-group.com",
+      "fiscalYearStart": 1,
+      "currency": "USD",
+      "adminDisplayName": "Issacar"
+    },
+    "after": {
+      "companyName": "JeanSimon Group LLC",
+      "companyEmail": "issacar@jeansimon-group.com",
+      "fiscalYearStart": 1,
+      "currency": "USD",
+      "adminDisplayName": "Issacar"
+    },
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com",
+      "changes": [
+        {
+          "field": "companyName",
+          "from": "JeanSimon Group",
+          "to": "JeanSimon Group LLC"
+        }
+      ]
+    }
   }
 ]
