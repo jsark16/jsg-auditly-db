@@ -27,6 +27,13 @@
         "at": "2026-11-24T20:37:46.003Z",
         "byEmail": "grace@jeansimon-group.com",
         "source": "invoices"
+      },
+      {
+        "action": "deleted",
+        "by": "Grace",
+        "at": "2026-11-24T20:37:53.597Z",
+        "byEmail": "grace@jeansimon-group.com",
+        "source": "invoices"
       }
     ],
     "lastSeen": {
@@ -35,6 +42,7 @@
       "client": "—",
       "date": "11/24/2026",
       "dueDate": ""
-    }
+    },
+    "deleted": true
   }
 }
