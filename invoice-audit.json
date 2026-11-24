@@ -34,11 +34,18 @@
         "at": "2026-11-24T20:37:53.597Z",
         "byEmail": "grace@jeansimon-group.com",
         "source": "invoices"
+      },
+      {
+        "action": "created",
+        "by": "Grace",
+        "at": "2026-11-24T20:39:07.676Z",
+        "byEmail": "grace@jeansimon-group.com",
+        "source": "invoices"
       }
     ],
     "lastSeen": {
       "status": "UNPAID",
-      "total": "$200.00",
+      "total": "$0.00",
       "client": "—",
       "date": "11/24/2026",
       "dueDate": ""
