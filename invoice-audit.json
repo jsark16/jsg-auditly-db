@@ -18,5 +18,23 @@
       "date": "10/16/2026",
       "dueDate": "10/23/2026"
     }
+  },
+  "JSG-0010": {
+    "trail": [
+      {
+        "action": "created",
+        "by": "Grace",
+        "at": "2026-11-24T20:37:46.003Z",
+        "byEmail": "grace@jeansimon-group.com",
+        "source": "invoices"
+      }
+    ],
+    "lastSeen": {
+      "status": "UNPAID",
+      "total": "$200.00",
+      "client": "—",
+      "date": "11/24/2026",
+      "dueDate": ""
+    }
   }
 }
