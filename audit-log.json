@@ -600,5 +600,18 @@
       "failed": 0,
       "retriedFromDeadLetter": 0
     }
+  },
+  {
+    "id": "session:logout:grace@jeansimon-group.com:2026-11-24T20:41:28.123Z",
+    "at": "2026-11-24T20:41:28.123Z",
+    "actor": "Grace",
+    "entity": "session",
+    "entityId": "grace@jeansimon-group.com",
+    "action": "logout",
+    "summary": "Grace logged out",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
