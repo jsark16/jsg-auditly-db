@@ -642,5 +642,18 @@
       "canReconcile": true,
       "canBackup": true
     }
+  },
+  {
+    "id": "session:logout:grace@jeansimon-group.com:2026-11-24T20:44:52.682Z",
+    "at": "2026-11-24T20:44:52.682Z",
+    "actor": "Grace",
+    "entity": "session",
+    "entityId": "grace@jeansimon-group.com",
+    "action": "logout",
+    "summary": "Grace logged out",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
