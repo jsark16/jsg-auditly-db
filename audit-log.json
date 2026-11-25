@@ -1238,5 +1238,19 @@
       "invoiceNumber": "JSG-0010",
       "byEmail": "grace@jeansimon-group.com"
     }
+  },
+  {
+    "id": "invoice:JSG-0010:created:2026-11-24T20:39:07.676Z",
+    "at": "2026-11-24T20:39:07.676Z",
+    "actor": "Grace",
+    "entity": "invoice",
+    "entityId": "JSG-0010",
+    "action": "created",
+    "summary": "Invoice JSG-0010 created",
+    "source": "invoices",
+    "metadata": {
+      "invoiceNumber": "JSG-0010",
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
