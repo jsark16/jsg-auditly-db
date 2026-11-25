@@ -1547,5 +1547,39 @@
         }
       ]
     }
+  },
+  {
+    "id": "settings:updated:settings:2026-11-25T22:40:39.178Z",
+    "at": "2026-11-25T22:40:39.178Z",
+    "actor": "Grace",
+    "entity": "settings",
+    "entityId": "settings",
+    "action": "updated",
+    "summary": "Settings updated (1 field)",
+    "before": {
+      "companyName": "JSG",
+      "companyEmail": "issacar@jeansimon-group.com",
+      "fiscalYearStart": 1,
+      "currency": "USD",
+      "adminDisplayName": "Issacar"
+    },
+    "after": {
+      "companyName": "JeanSimon Group",
+      "companyEmail": "issacar@jeansimon-group.com",
+      "fiscalYearStart": 1,
+      "currency": "USD",
+      "adminDisplayName": "Issacar"
+    },
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com",
+      "changes": [
+        {
+          "field": "companyName",
+          "from": "JSG",
+          "to": "JeanSimon Group"
+        }
+      ]
+    }
   }
 ]
