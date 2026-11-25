@@ -1610,5 +1610,18 @@
     "metadata": {
       "byEmail": "grace+customer@jeansimon-group.com"
     }
+  },
+  {
+    "id": "session:password-set:grace@jeansimon-group.com:2026-11-25T23:42:13.329Z",
+    "at": "2026-11-25T23:42:13.329Z",
+    "actor": "Grace",
+    "entity": "session",
+    "entityId": "grace@jeansimon-group.com",
+    "action": "password-set",
+    "summary": "Grace set their password (account verified)",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
