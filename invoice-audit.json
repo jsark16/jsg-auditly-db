@@ -48,14 +48,21 @@
         "at": "2026-11-24T20:39:14.499Z",
         "byEmail": "grace@jeansimon-group.com",
         "source": "invoices"
+      },
+      {
+        "action": "created",
+        "by": "Grace",
+        "at": "2026-11-25T12:37:16.528Z",
+        "byEmail": "grace@jeansimon-group.com",
+        "source": "invoices"
       }
     ],
     "lastSeen": {
       "status": "UNPAID",
-      "total": "$0.00",
-      "client": "—",
-      "date": "11/24/2026",
-      "dueDate": ""
+      "total": "$50.00",
+      "client": "John Rojas",
+      "date": "11/25/2026",
+      "dueDate": "11/25/2026"
     },
     "deleted": true
   }
