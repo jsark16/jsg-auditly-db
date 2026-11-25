@@ -66,9 +66,11 @@
       "tag": "due",
       "message": "Invoice JSG-0010 to John Rojas ($50.00) is due today (11/25/2026).",
       "link": "/invoices?focus=JSG-0010",
-      "status": "active",
+      "status": "resolved",
       "createdAt": "2026-11-25T12:37:37.992Z",
-      "readBy": []
+      "readBy": [],
+      "resolvedAt": "2026-11-25T12:37:56.851Z",
+      "resolvedReason": "record_closed"
     }
   ]
 }
