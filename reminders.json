@@ -53,6 +53,22 @@
       "readBy": [
         "grace@jeansimon-group.com"
       ]
+    },
+    {
+      "key": "invoice:JSG-0010:due",
+      "source": "invoice",
+      "kind": "upcoming",
+      "recordId": "JSG-0010",
+      "recordLabel": "JSG-0010",
+      "party": "John Rojas",
+      "amount": 50,
+      "dueDate": "11/25/2026",
+      "tag": "due",
+      "message": "Invoice JSG-0010 to John Rojas ($50.00) is due today (11/25/2026).",
+      "link": "/invoices?focus=JSG-0010",
+      "status": "active",
+      "createdAt": "2026-11-25T12:37:37.992Z",
+      "readBy": []
     }
   ]
 }
