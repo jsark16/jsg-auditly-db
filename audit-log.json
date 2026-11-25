@@ -1210,5 +1210,19 @@
       "canReconcile": true,
       "canBackup": true
     }
+  },
+  {
+    "id": "invoice:JSG-0010:created:2026-11-24T20:37:46.003Z",
+    "at": "2026-11-24T20:37:46.003Z",
+    "actor": "Grace",
+    "entity": "invoice",
+    "entityId": "JSG-0010",
+    "action": "created",
+    "summary": "Invoice JSG-0010 created",
+    "source": "invoices",
+    "metadata": {
+      "invoiceNumber": "JSG-0010",
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
