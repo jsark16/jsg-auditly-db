@@ -2225,5 +2225,22 @@
       "canReconcile": true,
       "canBackup": true
     }
+  },
+  {
+    "id": "session:login:grace@jeansimon-group.com:2026-11-26T01:30:37.776Z",
+    "at": "2026-11-26T01:30:37.776Z",
+    "actor": "Grace",
+    "entity": "session",
+    "entityId": "grace@jeansimon-group.com",
+    "action": "login",
+    "summary": "Grace logged in",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com",
+      "role": "admin",
+      "isAdmin": true,
+      "canReconcile": true,
+      "canBackup": true
+    }
   }
 ]
