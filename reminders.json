@@ -71,6 +71,22 @@
       "readBy": [],
       "resolvedAt": "2026-11-25T12:37:56.851Z",
       "resolvedReason": "record_closed"
+    },
+    {
+      "key": "invoice:JSG-005:overdue",
+      "source": "invoice",
+      "kind": "overdue",
+      "recordId": "JSG-005",
+      "recordLabel": "JSG-005",
+      "party": "Benders Enterprise LLC",
+      "amount": 1700,
+      "dueDate": "10/23/2026",
+      "tag": "overdue",
+      "message": "Invoice JSG-005 to Benders Enterprise LLC ($1,700.00) is 33 days overdue — was due 10/23/2026.",
+      "link": "/invoices?focus=JSG-005",
+      "status": "active",
+      "createdAt": "2026-11-26T00:39:24.133Z",
+      "readBy": []
     }
   ]
 }
