@@ -2545,5 +2545,18 @@
       "actorKnown": false,
       "postedAtKnown": false
     }
+  },
+  {
+    "id": "session:logout:grace@jeansimon-group.com:2026-11-26T20:17:26.536Z",
+    "at": "2026-11-26T20:17:26.536Z",
+    "actor": "Grace",
+    "entity": "session",
+    "entityId": "grace@jeansimon-group.com",
+    "action": "logout",
+    "summary": "Grace logged out",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
