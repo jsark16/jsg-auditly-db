@@ -1683,5 +1683,22 @@
     "metadata": {
       "byEmail": "grace+customer@jeansimon-group.com"
     }
+  },
+  {
+    "id": "session:login:grace+customer@jeansimon-group.com:2026-11-26T00:05:10.896Z",
+    "at": "2026-11-26T00:05:10.896Z",
+    "actor": "Grace (Customer Test)",
+    "entity": "session",
+    "entityId": "grace+customer@jeansimon-group.com",
+    "action": "login",
+    "summary": "Grace (Customer Test) logged in",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace+customer@jeansimon-group.com",
+      "role": "member",
+      "isAdmin": false,
+      "canReconcile": false,
+      "canBackup": false
+    }
   }
 ]
