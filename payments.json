@@ -50,5 +50,27 @@
         "at": "2026-11-26T00:24:40.905Z"
       }
     ]
+  },
+  {
+    "id": "pmt_1795653576074_cw7oz",
+    "paymentNumber": "PMT-0003",
+    "invoiceId": "JSG-005",
+    "invoiceNumber": "JSG-005",
+    "customerName": "Benders Enterprise LLC",
+    "amount": 1700,
+    "paymentDate": "2026-11-25",
+    "method": "Wise",
+    "notes": "",
+    "createdAt": "2026-11-26T00:39:36.074Z",
+    "depositTo": "Wise Account",
+    "status": "active",
+    "audit": [
+      {
+        "action": "created",
+        "by": "Grace",
+        "byEmail": "grace@jeansimon-group.com",
+        "at": "2026-11-26T00:39:36.074Z"
+      }
+    ]
   }
 ]
