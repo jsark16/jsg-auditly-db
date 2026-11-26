@@ -2520,5 +2520,30 @@
       "actorKnown": false,
       "postedAtKnown": false
     }
+  },
+  {
+    "id": "journal:IPMT-pmt_1795653576074_cw7oz:posted",
+    "at": "2026-11-25",
+    "actor": "",
+    "entity": "journal",
+    "entityId": "IPMT-pmt_1795653576074_cw7oz",
+    "action": "posted",
+    "summary": "Journal IPMT-pmt_1795653576074_cw7oz posted (invoice-payment)",
+    "source": "invoice-payment",
+    "metadata": {
+      "txnId": "IPMT-pmt_1795653576074_cw7oz",
+      "kind": "original",
+      "txnDate": "2026-11-25",
+      "amount": 1700,
+      "debits": 1700,
+      "credits": 1700,
+      "balanced": true,
+      "accounts": [
+        "1010",
+        "1200"
+      ],
+      "actorKnown": false,
+      "postedAtKnown": false
+    }
   }
 ]
