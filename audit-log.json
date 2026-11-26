@@ -2446,5 +2446,26 @@
       ],
       "byEmail": "grace@jeansimon-group.com"
     }
+  },
+  {
+    "id": "invoice:JSG-005:observed-change:2026-11-26T06:00:41.077Z",
+    "at": "2026-11-26T06:00:41.077Z",
+    "actor": "",
+    "entity": "invoice",
+    "entityId": "JSG-005",
+    "action": "observed-change",
+    "summary": "Invoice JSG-005 observed-change",
+    "source": "invoice-drift",
+    "metadata": {
+      "invoiceNumber": "JSG-005",
+      "changes": [
+        {
+          "field": "status",
+          "from": "UNPAID",
+          "to": "PAID"
+        }
+      ],
+      "note": "External change detected during audit reconciliation; actor and exact time are not attributable."
+    }
   }
 ]
