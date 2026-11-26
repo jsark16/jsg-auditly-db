@@ -2411,5 +2411,19 @@
       "paymentNumber": "PMT-0003",
       "byEmail": "grace@jeansimon-group.com"
     }
+  },
+  {
+    "id": "invoice:JSG-005:edited:2026-11-25T22:16:30.438Z",
+    "at": "2026-11-25T22:16:30.438Z",
+    "actor": "Grace",
+    "entity": "invoice",
+    "entityId": "JSG-005",
+    "action": "edited",
+    "summary": "Invoice JSG-005 edited",
+    "source": "invoices",
+    "metadata": {
+      "invoiceNumber": "JSG-005",
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
