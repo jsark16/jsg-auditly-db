@@ -2195,5 +2195,18 @@
     "metadata": {
       "byEmail": "grace@jeansimon-group.com"
     }
+  },
+  {
+    "id": "session:password-reset:grace@jeansimon-group.com:2026-11-26T01:29:41.699Z",
+    "at": "2026-11-26T01:29:41.699Z",
+    "actor": "Grace",
+    "entity": "session",
+    "entityId": "grace@jeansimon-group.com",
+    "action": "password-reset",
+    "summary": "Grace reset their password",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
