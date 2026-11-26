@@ -2467,5 +2467,19 @@
       ],
       "note": "External change detected during audit reconciliation; actor and exact time are not attributable."
     }
+  },
+  {
+    "id": "invoice:JSG-0010:created:2026-11-25T12:37:16.528Z",
+    "at": "2026-11-25T12:37:16.528Z",
+    "actor": "Grace",
+    "entity": "invoice",
+    "entityId": "JSG-0010",
+    "action": "created",
+    "summary": "Invoice JSG-0010 created",
+    "source": "invoices",
+    "metadata": {
+      "invoiceNumber": "JSG-0010",
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
