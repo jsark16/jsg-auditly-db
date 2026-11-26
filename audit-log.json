@@ -2618,5 +2618,22 @@
     "metadata": {
       "byEmail": "gracework1467@gmail.com"
     }
+  },
+  {
+    "id": "session:login:gracework1467@gmail.com:2026-11-26T23:56:10.484Z",
+    "at": "2026-11-26T23:56:10.484Z",
+    "actor": "Grace Ann Dizon",
+    "entity": "session",
+    "entityId": "gracework1467@gmail.com",
+    "action": "login",
+    "summary": "Grace Ann Dizon logged in",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "gracework1467@gmail.com",
+      "role": "member",
+      "isAdmin": false,
+      "canReconcile": false,
+      "canBackup": false
+    }
   }
 ]
