@@ -1990,5 +1990,18 @@
       "canReconcile": false,
       "canBackup": false
     }
+  },
+  {
+    "id": "session:logout:grace+test2@jeansimon-group.com:2026-11-26T00:44:09.799Z",
+    "at": "2026-11-26T00:44:09.799Z",
+    "actor": "Grace (LoginTest)",
+    "entity": "session",
+    "entityId": "grace+test2@jeansimon-group.com",
+    "action": "logout",
+    "summary": "Grace (LoginTest) logged out",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace+test2@jeansimon-group.com"
+    }
   }
 ]
