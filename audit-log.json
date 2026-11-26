@@ -2285,5 +2285,18 @@
       "canReconcile": true,
       "canBackup": true
     }
+  },
+  {
+    "id": "session:logout:grace@jeansimon-group.com:2026-11-26T01:32:23.192Z",
+    "at": "2026-11-26T01:32:23.192Z",
+    "actor": "Grace",
+    "entity": "session",
+    "entityId": "grace@jeansimon-group.com",
+    "action": "logout",
+    "summary": "Grace logged out",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
