@@ -1854,5 +1854,18 @@
     "metadata": {
       "byEmail": "grace+test2@jeansimon-group.com"
     }
+  },
+  {
+    "id": "session:logout:grace+test2@jeansimon-group.com:2026-11-26T00:36:51.436Z",
+    "at": "2026-11-26T00:36:51.436Z",
+    "actor": "Grace (LoginTest)",
+    "entity": "session",
+    "entityId": "grace+test2@jeansimon-group.com",
+    "action": "logout",
+    "summary": "Grace (LoginTest) logged out",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace+test2@jeansimon-group.com"
+    }
   }
 ]
