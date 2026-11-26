@@ -2558,5 +2558,18 @@
     "metadata": {
       "byEmail": "grace@jeansimon-group.com"
     }
+  },
+  {
+    "id": "session:password-set:bigmacyr186357@gmail.com:2026-11-26T20:20:40.303Z",
+    "at": "2026-11-26T20:20:40.303Z",
+    "actor": "Grace Customer Account Test",
+    "entity": "session",
+    "entityId": "bigmacyr186357@gmail.com",
+    "action": "password-set",
+    "summary": "Grace Customer Account Test set their password (account verified)",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "bigmacyr186357@gmail.com"
+    }
   }
 ]
