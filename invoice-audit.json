@@ -31,10 +31,24 @@
           }
         ],
         "source": "invoices"
+      },
+      {
+        "action": "observed-change",
+        "by": "",
+        "at": "2026-11-26T06:00:41.077Z",
+        "changes": [
+          {
+            "field": "status",
+            "from": "UNPAID",
+            "to": "PAID"
+          }
+        ],
+        "note": "External change detected during audit reconciliation; actor and exact time are not attributable.",
+        "source": "invoice-drift"
       }
     ],
     "lastSeen": {
-      "status": "UNPAID",
+      "status": "PAID",
       "total": "$1,700.00",
       "client": "Benders Enterprise LLC",
       "date": "10/16/2026",
