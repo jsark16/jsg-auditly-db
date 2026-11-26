@@ -2020,5 +2020,18 @@
       "canReconcile": false,
       "canBackup": false
     }
+  },
+  {
+    "id": "session:logout:grace@jeansimon-group.com:2026-11-26T00:49:02.957Z",
+    "at": "2026-11-26T00:49:02.957Z",
+    "actor": "Grace",
+    "entity": "session",
+    "entityId": "grace@jeansimon-group.com",
+    "action": "logout",
+    "summary": "Grace logged out",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
