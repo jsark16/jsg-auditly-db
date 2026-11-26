@@ -2481,5 +2481,19 @@
       "invoiceNumber": "JSG-0010",
       "byEmail": "grace@jeansimon-group.com"
     }
+  },
+  {
+    "id": "invoice:JSG-0010:deleted:2026-11-25T12:37:50.580Z",
+    "at": "2026-11-25T12:37:50.580Z",
+    "actor": "Grace",
+    "entity": "invoice",
+    "entityId": "JSG-0010",
+    "action": "deleted",
+    "summary": "Invoice JSG-0010 deleted",
+    "source": "invoices",
+    "metadata": {
+      "invoiceNumber": "JSG-0010",
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
