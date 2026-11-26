@@ -2383,5 +2383,19 @@
       "canReconcile": true,
       "canBackup": true
     }
+  },
+  {
+    "id": "payment:pmt_1795652680905_q2wt0:created:2026-11-26T00:24:40.905Z",
+    "at": "2026-11-26T00:24:40.905Z",
+    "actor": "Grace",
+    "entity": "payment",
+    "entityId": "pmt_1795652680905_q2wt0",
+    "action": "created",
+    "summary": "Payment PMT-0002 for Benders Enterprise LLC created",
+    "source": "payments",
+    "metadata": {
+      "paymentNumber": "PMT-0002",
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
