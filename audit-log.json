@@ -2495,5 +2495,30 @@
       "invoiceNumber": "JSG-0010",
       "byEmail": "grace@jeansimon-group.com"
     }
+  },
+  {
+    "id": "journal:INV-JSG-005:posted",
+    "at": "10/16/2026",
+    "actor": "",
+    "entity": "journal",
+    "entityId": "INV-JSG-005",
+    "action": "posted",
+    "summary": "Journal INV-JSG-005 posted (invoice)",
+    "source": "invoice",
+    "metadata": {
+      "txnId": "INV-JSG-005",
+      "kind": "original",
+      "txnDate": "10/16/2026",
+      "amount": 1700,
+      "debits": 1700,
+      "credits": 1700,
+      "balanced": true,
+      "accounts": [
+        "1200",
+        "4020"
+      ],
+      "actorKnown": false,
+      "postedAtKnown": false
+    }
   }
 ]
