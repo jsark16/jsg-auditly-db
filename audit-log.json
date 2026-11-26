@@ -1700,5 +1700,18 @@
       "canReconcile": false,
       "canBackup": false
     }
+  },
+  {
+    "id": "session:password-set:grace+customer@jeansimon-group.com:2026-11-26T00:09:50.577Z",
+    "at": "2026-11-26T00:09:50.577Z",
+    "actor": "Grace (Customer Test)",
+    "entity": "session",
+    "entityId": "grace+customer@jeansimon-group.com",
+    "action": "password-set",
+    "summary": "Grace (Customer Test) set their password (account verified)",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "grace+customer@jeansimon-group.com"
+    }
   }
 ]
