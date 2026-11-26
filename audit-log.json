@@ -2425,5 +2425,26 @@
       "invoiceNumber": "JSG-005",
       "byEmail": "grace@jeansimon-group.com"
     }
+  },
+  {
+    "id": "invoice:JSG-005:status-changed:2026-11-26T00:39:17.912Z",
+    "at": "2026-11-26T00:39:17.912Z",
+    "actor": "Grace",
+    "entity": "invoice",
+    "entityId": "JSG-005",
+    "action": "status-changed",
+    "summary": "Invoice JSG-005 status-changed",
+    "source": "invoices",
+    "metadata": {
+      "invoiceNumber": "JSG-005",
+      "changes": [
+        {
+          "field": "status",
+          "from": "PAID",
+          "to": "UNPAID"
+        }
+      ],
+      "byEmail": "grace@jeansimon-group.com"
+    }
   }
 ]
