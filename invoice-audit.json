@@ -17,10 +17,24 @@
         "at": "2026-11-25T22:16:30.438Z",
         "byEmail": "grace@jeansimon-group.com",
         "source": "invoices"
+      },
+      {
+        "action": "status-changed",
+        "by": "Grace",
+        "at": "2026-11-26T00:39:17.912Z",
+        "byEmail": "grace@jeansimon-group.com",
+        "changes": [
+          {
+            "field": "status",
+            "from": "PAID",
+            "to": "UNPAID"
+          }
+        ],
+        "source": "invoices"
       }
     ],
     "lastSeen": {
-      "status": "PAID",
+      "status": "UNPAID",
       "total": "$1,700.00",
       "client": "Benders Enterprise LLC",
       "date": "10/16/2026",
