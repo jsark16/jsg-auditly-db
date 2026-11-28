@@ -2748,5 +2748,19 @@
       "canReconcile": false,
       "canBackup": false
     }
+  },
+  {
+    "id": "session:password-change:zz-test-member@jeansimon-group.com:2026-11-28T00:55:07.104Z",
+    "at": "2026-11-28T00:55:07.104Z",
+    "actor": "ZZ Test Member",
+    "entity": "session",
+    "entityId": "zz-test-member@jeansimon-group.com",
+    "action": "password-change",
+    "summary": "ZZ Test Member changed their password",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "zz-test-member@jeansimon-group.com",
+      "accountType": "internal"
+    }
   }
 ]
