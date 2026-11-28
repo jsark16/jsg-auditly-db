@@ -2635,5 +2635,22 @@
       "canReconcile": false,
       "canBackup": false
     }
+  },
+  {
+    "id": "session:login:zz-test-customer-1795827211175@example.com:2026-11-28T00:53:33.905Z",
+    "at": "2026-11-28T00:53:33.905Z",
+    "actor": "ZZ Test Customer",
+    "entity": "session",
+    "entityId": "zz-test-customer-1795827211175@example.com",
+    "action": "login",
+    "summary": "ZZ Test Customer logged in",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "zz-test-customer-1795827211175@example.com",
+      "role": "member",
+      "isAdmin": false,
+      "canReconcile": false,
+      "canBackup": false
+    }
   }
 ]
