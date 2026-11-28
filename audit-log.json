@@ -2762,5 +2762,22 @@
       "byEmail": "zz-test-member@jeansimon-group.com",
       "accountType": "internal"
     }
+  },
+  {
+    "id": "session:login:zz-test-member@jeansimon-group.com:2026-11-28T00:55:08.448Z",
+    "at": "2026-11-28T00:55:08.448Z",
+    "actor": "ZZ Test Member",
+    "entity": "session",
+    "entityId": "zz-test-member@jeansimon-group.com",
+    "action": "login",
+    "summary": "ZZ Test Member logged in",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "zz-test-member@jeansimon-group.com",
+      "role": "member",
+      "isAdmin": false,
+      "canReconcile": false,
+      "canBackup": false
+    }
   }
 ]
