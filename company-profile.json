@@ -8,11 +8,11 @@
     "industry": "Testing"
   },
   "legalInformation": {
-    "legalBusinessName": "",
-    "registrationNumber": "",
-    "taxIdNumber": "",
-    "countryOfRegistration": "",
-    "taxJurisdiction": "",
+    "legalBusinessName": "ZZ Test LLC",
+    "registrationNumber": "REG1",
+    "taxIdNumber": "EIN1",
+    "countryOfRegistration": "US",
+    "taxJurisdiction": "GA",
     "otherLegalDetails": ""
   },
   "additionalDetails": {
@@ -21,5 +21,5 @@
     "dateEstablished": "",
     "businessDescription": ""
   },
-  "updatedAt": "2026-11-28T02:13:02.583Z"
+  "updatedAt": "2026-11-28T02:13:04.493Z"
 }
