@@ -2796,5 +2796,26 @@
       "canReconcile": true,
       "canBackup": true
     }
+  },
+  {
+    "id": "settings:updated:company-profile:companyInformation:2026-11-28T02:13:03.217Z",
+    "at": "2026-11-28T02:13:03.217Z",
+    "actor": "ZZ Test Admin",
+    "entity": "settings",
+    "entityId": "company-profile:companyInformation",
+    "action": "updated",
+    "summary": "Company Profile — companyInformation updated",
+    "after": {
+      "businessName": "ZZ Test Co",
+      "businessAddress": "ATL",
+      "businessEmail": "zz@test.co",
+      "phoneNumber": "555",
+      "website": "zz.co",
+      "industry": "Testing"
+    },
+    "source": "admin",
+    "metadata": {
+      "byEmail": "zz-test-admin@jeansimon-group.com"
+    }
   }
 ]
