@@ -2817,5 +2817,26 @@
     "metadata": {
       "byEmail": "zz-test-admin@jeansimon-group.com"
     }
+  },
+  {
+    "id": "settings:updated:company-profile:legalInformation:2026-11-28T02:13:05.242Z",
+    "at": "2026-11-28T02:13:05.242Z",
+    "actor": "ZZ Test Admin",
+    "entity": "settings",
+    "entityId": "company-profile:legalInformation",
+    "action": "updated",
+    "summary": "Company Profile — legalInformation updated",
+    "after": {
+      "legalBusinessName": "ZZ Test LLC",
+      "registrationNumber": "REG1",
+      "taxIdNumber": "EIN1",
+      "countryOfRegistration": "US",
+      "taxJurisdiction": "GA",
+      "otherLegalDetails": ""
+    },
+    "source": "admin",
+    "metadata": {
+      "byEmail": "zz-test-admin@jeansimon-group.com"
+    }
   }
 ]
