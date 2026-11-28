@@ -1,0 +1,25 @@
+{
+  "companyInformation": {
+    "businessName": "ZZ Test Co",
+    "businessAddress": "ATL",
+    "businessEmail": "zz@test.co",
+    "phoneNumber": "555",
+    "website": "zz.co",
+    "industry": "Testing"
+  },
+  "legalInformation": {
+    "legalBusinessName": "",
+    "registrationNumber": "",
+    "taxIdNumber": "",
+    "countryOfRegistration": "",
+    "taxJurisdiction": "",
+    "otherLegalDetails": ""
+  },
+  "additionalDetails": {
+    "entityStructure": "",
+    "businessSize": "",
+    "dateEstablished": "",
+    "businessDescription": ""
+  },
+  "updatedAt": "2026-11-28T02:13:02.583Z"
+}
