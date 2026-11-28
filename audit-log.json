@@ -2652,5 +2652,19 @@
       "canReconcile": false,
       "canBackup": false
     }
+  },
+  {
+    "id": "session:password-change:zz-test-customer-1795827211175@example.com:2026-11-28T00:53:38.157Z",
+    "at": "2026-11-28T00:53:38.157Z",
+    "actor": "ZZ Test Customer",
+    "entity": "session",
+    "entityId": "zz-test-customer-1795827211175@example.com",
+    "action": "password-change",
+    "summary": "ZZ Test Customer changed their password",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "zz-test-customer-1795827211175@example.com",
+      "accountType": "customer"
+    }
   }
 ]
