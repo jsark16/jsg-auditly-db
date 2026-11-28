@@ -2683,5 +2683,22 @@
       "canReconcile": false,
       "canBackup": false
     }
+  },
+  {
+    "id": "session:login:zz-test-admin@jeansimon-group.com:2026-11-28T00:54:57.666Z",
+    "at": "2026-11-28T00:54:57.666Z",
+    "actor": "ZZ Test Admin",
+    "entity": "session",
+    "entityId": "zz-test-admin@jeansimon-group.com",
+    "action": "login",
+    "summary": "ZZ Test Admin logged in",
+    "source": "admin",
+    "metadata": {
+      "byEmail": "zz-test-admin@jeansimon-group.com",
+      "role": "admin",
+      "isAdmin": true,
+      "canReconcile": true,
+      "canBackup": true
+    }
   }
 ]
